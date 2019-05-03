@@ -6,7 +6,7 @@
 ## Valiutos kursas
 - [ ] Base : iš kokios valiutos keičiama. [String, 3 char] 
 - [ ] ID : į kokią valiutą keičiama. [String, 3 char]
-- [ ] Rates : valiutos keitimo kursas. [float]
+- [ ] Rates : valiutos keitimo kursas. [float, 100.4]
 - [ ] Date : valiutos kurso data. [date]
 
 ## API definition
@@ -18,3 +18,4 @@
 ## UI aprašymas
 - [ ] Sistema turi vieną langą, kuriame įrašome sumą, kurią konvertuosime į kitą valiutą ir paspaudus mygtuką "Convert!" suma konvertuojama.
 - [ ] Paspaudus mygtuką "Kursai", ant lango išvedami visi kursai.
+https://wireframe.cc/anA0SI
