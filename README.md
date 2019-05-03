@@ -18,4 +18,4 @@
 ## UI aprašymas
 - [ ] Sistema turi vieną langą, kuriame įrašome sumą, kurią konvertuosime į kitą valiutą ir paspaudus mygtuką "Convert!" suma konvertuojama.
 - [ ] Paspaudus mygtuką "Kursai", ant lango išvedami visi kursai.
-https://wireframe.cc/anA0SI
+- https://wireframe.cc/anA0SI
