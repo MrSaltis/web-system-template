@@ -11,4 +11,5 @@
 ## API definition
 - [ ] Gauti valiutų keitimo kursus
 ## UI aprašymas
-- [ ] Sistema turi vieną langą, kuriame įrašome sumą, kurią konvertuosime į kitą valiutą ir paspaudus mygtuką suma konvertuojama.
+- [ ] Sistema turi vieną langą, kuriame įrašome sumą, kurią konvertuosime į kitą valiutą ir paspaudus mygtuką "Convert!" suma konvertuojama.
+- [ ] Paspaudus mygtuką "Kursai", ant lango išvedami visi kursai.
