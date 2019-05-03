@@ -7,7 +7,7 @@
 - [ ] Base : iš kokios valiutos keičiama. [String, 3 char] 
 - [ ] ID : į kokią valiutą keičiama. [String, 3 char]
 - [ ] Rates : valiutos keitimo kursas. [float, 100.4]
-- [ ] Date : valiutos kurso data. [date]
+- [ ] Date : valiutos kurso data. [date, yyyy-mm-dd]
 
 ## API definition
 - [ ] Gauti valiutų keitimo kursus pagal :Base. Method: GET, api/kursas/:Base
